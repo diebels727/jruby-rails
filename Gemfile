@@ -22,6 +22,11 @@ gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0',                              group: :doc
 
+
+gem 'jruby-jars','1.7.11'
+gem 'warbler','1.4.0'
+gem 'jruby-openssl'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
